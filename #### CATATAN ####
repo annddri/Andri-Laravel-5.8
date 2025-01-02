@@ -1,0 +1,5 @@
+apabila tidak bekerja:
+-coba download laravel versi terbaru dan copy folder vendor
+-tambahkan file env, isinya samakan dengan file env.example
+-apabila masih gagal, generate key baru pada env, tutorial pada 
+https://www.youtube.com/watch?v=KtUNSjXMK1U&list=PLFIM0718LjIX-xNEj9bSBuDmPw9FWGMgF&index=5
