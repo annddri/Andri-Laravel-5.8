@@ -3,3 +3,5 @@ apabila tidak bekerja:
 -tambahkan file env, isinya samakan dengan file env.example
 -apabila masih gagal, generate key baru pada env, tutorial pada 
 https://www.youtube.com/watch?v=KtUNSjXMK1U&list=PLFIM0718LjIX-xNEj9bSBuDmPw9FWGMgF&index=5
+
+-tambahkan table pada mysql, nama file tabel adalah cobaLaravel.sql
